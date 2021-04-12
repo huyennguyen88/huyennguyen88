@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Thanh Huyen
-- 👀 I’m interested in watching anime
-- 🌱 I’m currently learning Java Spring, Japanese
+- 👀 I’m interested in Java webapp
+- 🌱 I’m currently learning Java Spring Mvc
 
 <!---
 huyennguyen88/huyennguyen88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
